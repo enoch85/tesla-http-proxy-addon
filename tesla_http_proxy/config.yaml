@@ -1,14 +1,11 @@
 name: "Tesla HTTP Proxy"
-version: "2.3.0"
+version: "2.3.1"
 slug: "tesla_http_proxy"
 description: "Proxy requests for Tesla Fleet API"
 url: "https://github.com/llamafilm/tesla-http-proxy-addon/tree/main/tesla_http_proxy"
 arch:
-  - armhf
-  - armv7
   - aarch64
   - amd64
-  - i386
 hassio_role: homeassistant
 init: false
 map:

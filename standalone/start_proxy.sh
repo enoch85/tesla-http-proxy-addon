@@ -4,7 +4,7 @@
 
 #########################################################
 # Define these variables in a new file called secrets.env
-ARCH=aarch64 # options: aarch64, amd64, armhf, armv7, i386
+ARCH=aarch64 # options: aarch64, amd64
 DEBUG=true # must be lowercase
 REGION="North America, Asia-Pacific" # options defined in const.py
 DOMAIN=

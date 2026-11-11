@@ -1,5 +1,11 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
+## 2.3.1
+
+### Removed
+
+- Removed the armhf, armv7 and i386 architectures, which Home Assistant no longer supports
+
 ## 2.3.0
 
 ### Changed
